@@ -3,7 +3,7 @@ import sys
 from sys import platform
 
 if os.getuid():
-    print("Script By KrisIsHere | Setup Tool Built 1.1")
+    print("Script By Aexite | Setup Tool Built 1.1")
     exit('\nroot access required\n')
 
 if platform == "linux" or platform == "linux2":
