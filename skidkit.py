@@ -4,7 +4,7 @@ import random
 from time import sleep
 
 if os.getuid():
-    print("Script By KrisIsHere | SkidKit Ver. 1.2.4")
+    print("Script By Aexite | SkidKit Ver. 1.2.4")
     exit('\nroot access required\n')
 
 version = "1.2.4"
